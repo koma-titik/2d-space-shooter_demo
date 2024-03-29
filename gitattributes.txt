@@ -1,0 +1,2 @@
+*/ filter=lfs diff=lfs merge=lfs -text
+DemoAndroid/2D-Space-Shooter.apk filter=lfs diff=lfs merge=lfs -text

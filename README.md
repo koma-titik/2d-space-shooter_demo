@@ -1,4 +1,4 @@
-# Demo 2D Space Shooter - Desktop Version
+# Demo 2D Space Shooter - Desktop & Android Version
 https://rizkifachrozy.itch.io/2d-space-shooter-demo
 
 # Demo 2D Space Shooter - Web Version
